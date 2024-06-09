@@ -8,9 +8,9 @@
 <br/>
 
 <div align="center"> 
- 🔭 Minha maior rotina é estudar   **Programação**
- 🌱 No momento faço curso de Agronomia - **Campus CECA-UFAL**
- ⚡ Curiosidades **Redes sociais para contato**
+ 🔭 Minha maior rotina é estudar**Programação**
+ 🌱 No momento faço curso de Agronomia-**Campus CECA-UFAL**
+ ⚡ Curiosidades**Redes sociais para contato**
  </div>
  
  <div align="center"> 
