@@ -10,9 +10,9 @@
 <div align="center">
     
 🔭 Minha maior rotina é **Estudar**
-
+    
 🌱 No momento faço curso de Agronomia- **Campus CECA-UFAL**
-
+    
 ⚡ Curiosidades **Redes sociais para contato**
 
  </div>
