@@ -37,6 +37,6 @@
 
 <br/>
 <hr/>
-![snake gif](https://github.com/wedja/wedja/blob/output/github-contribution-grid-snake.gif)
+# ![snake gif](https://github.com/wedja/wedja/blob/output/github-contribution-grid-snake.gif)
 <!--
 **wedja/wedja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
