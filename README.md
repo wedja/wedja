@@ -32,7 +32,17 @@
     <img src="https://skillicons.dev/icons?i=vscode,github,git,r" />
     <img src="https://skillicons.dev/icons?i=python" /><br>
 </div>
+<br/>
+<hr/>
 
-![snake gif](https://github.com/wedja/wedja/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+  <h2>🐍 Minhas Contribuições 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/wedja/wedja/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
 <!--
 **wedja/wedja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
